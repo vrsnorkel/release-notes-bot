@@ -1,5 +1,3 @@
-# release-notes-bot
-
 # Jira Release Notes Generator
 
 A Python script that automates the generation of release notes for Jira issues using GPT-4. It supports both individual user stories and epics, with interactive approval workflow for epic stories.
